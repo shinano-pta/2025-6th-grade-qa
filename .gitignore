@@ -1,0 +1,14 @@
+# IntelliJ project files
+.idea
+node_modules
+server/keys
+.credential
+test
+.database
+.env
+.mecab-user-dic
+.data
+venv
+.venv
+.python-version
+*.txt
